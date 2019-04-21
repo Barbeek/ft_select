@@ -8,4 +8,5 @@ ft_select is the third project of the Unix branch at 42. The goal for this proje
 -- Running --
 
 A basic usage would involve at least one argument:
- ```ft_select *```
+
+ ```./ft_select *```
